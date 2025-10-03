@@ -7,5 +7,5 @@ export default defineConfig({
   // IMPORTANTE: Cambia 'YOUR_REPO_NAME' por el nombre de tu repositorio en GitHub.
   // Por ejemplo, si tu repositorio se llama 'cv-react', la línea debería ser:
   // base: '/cv-react/',
-  base: '/YOUR_REPO_NAME/', 
+  base: '/cv-samer-machara/', 
 })
